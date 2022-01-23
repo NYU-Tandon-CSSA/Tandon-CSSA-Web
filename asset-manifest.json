@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Tandon-CSSA-Web/static/css/main.d725c3ff.chunk.css",
-    "main.js": "/Tandon-CSSA-Web/static/js/main.c5336677.chunk.js",
-    "main.js.map": "/Tandon-CSSA-Web/static/js/main.c5336677.chunk.js.map",
-    "runtime-main.js": "/Tandon-CSSA-Web/static/js/runtime-main.c3ca5362.js",
-    "runtime-main.js.map": "/Tandon-CSSA-Web/static/js/runtime-main.c3ca5362.js.map",
-    "static/js/2.38c49406.chunk.js": "/Tandon-CSSA-Web/static/js/2.38c49406.chunk.js",
-    "static/js/2.38c49406.chunk.js.map": "/Tandon-CSSA-Web/static/js/2.38c49406.chunk.js.map",
-    "index.html": "/Tandon-CSSA-Web/index.html",
-    "static/css/main.d725c3ff.chunk.css.map": "/Tandon-CSSA-Web/static/css/main.d725c3ff.chunk.css.map",
-    "static/js/2.38c49406.chunk.js.LICENSE.txt": "/Tandon-CSSA-Web/static/js/2.38c49406.chunk.js.LICENSE.txt",
-    "static/media/logo.69d2f812.png": "/Tandon-CSSA-Web/static/media/logo.69d2f812.png",
-    "static/media/wechat.17348619.JPG": "/Tandon-CSSA-Web/static/media/wechat.17348619.JPG"
+    "main.css": "/static/css/main.d725c3ff.chunk.css",
+    "main.js": "/static/js/main.c5336677.chunk.js",
+    "main.js.map": "/static/js/main.c5336677.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67d25e71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67d25e71.js.map",
+    "static/js/2.9c501ee1.chunk.js": "/static/js/2.9c501ee1.chunk.js",
+    "static/js/2.9c501ee1.chunk.js.map": "/static/js/2.9c501ee1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d725c3ff.chunk.css.map": "/static/css/main.d725c3ff.chunk.css.map",
+    "static/js/2.9c501ee1.chunk.js.LICENSE.txt": "/static/js/2.9c501ee1.chunk.js.LICENSE.txt",
+    "static/media/logo.69d2f812.png": "/static/media/logo.69d2f812.png",
+    "static/media/wechat.17348619.JPG": "/static/media/wechat.17348619.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3ca5362.js",
-    "static/js/2.38c49406.chunk.js",
+    "static/js/runtime-main.67d25e71.js",
+    "static/js/2.9c501ee1.chunk.js",
     "static/css/main.d725c3ff.chunk.css",
     "static/js/main.c5336677.chunk.js"
   ]
